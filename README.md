@@ -2,6 +2,8 @@
 Plantilla para Ciencia de Datos con Python & Cookicutter
 
 Estructura de la plantilla:
+
+```
 .
 ├── README.md
 ├── cookiecutter.json
@@ -12,3 +14,4 @@ Estructura de la plantilla:
     │   └── Plantilla_proyecto.ipynb
     ├── outputs
     └── visualization
+```
