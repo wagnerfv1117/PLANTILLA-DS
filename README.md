@@ -16,7 +16,7 @@ Plantilla para proyectos en Ciencia de Datos con Python & Cookicutter
 - Git
 - Windows
 
-Estructura de la plantilla:
+### **Estructura de la plantilla:**
 
 ```
 .
