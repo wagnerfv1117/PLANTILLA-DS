@@ -1,5 +1,20 @@
-# PLANTILLA-DS
-Plantilla para Ciencia de Datos con Python & Cookicutter
+## **Acerca del proyecto**
+
+Plantilla para proyectos en Ciencia de Datos con Python & Cookicutter
+
+### **Lenguajes usados**
+
+- Python
+
+### **Librerías usadas**
+
+- Cookiecutter
+
+### **Herramientas usadas** 
+
+- VSCODE
+- Git
+- Windows
 
 Estructura de la plantilla:
 
